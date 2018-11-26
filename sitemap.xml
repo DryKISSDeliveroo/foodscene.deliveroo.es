@@ -2275,18 +2275,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.es/tag/exclusivos.html</loc>
-    <lastmod>2018-11-26T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.es/tag/cocina.html</loc>
-    <lastmod>2018-11-26T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://foodscene.deliveroo.es/tag/deliveroo.html</loc>
     <lastmod>2018-11-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -2294,6 +2282,42 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.es/tag/comida-a-domicilio.html</loc>
+    <lastmod>2018-11-26T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.es/tag/take-away.html</loc>
+    <lastmod>2018-11-26T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.es/tag/delivery.html</loc>
+    <lastmod>2018-11-26T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.es/tag/vegano.html</loc>
+    <lastmod>2018-11-26T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.es/tag/black-friday.html</loc>
+    <lastmod>2018-11-26T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.es/tag/exclusivos.html</loc>
+    <lastmod>2018-11-26T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.es/tag/cocina.html</loc>
     <lastmod>2018-11-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -2324,18 +2348,6 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.es/tag/gratis.html</loc>
-    <lastmod>2018-11-26T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.es/tag/take-away.html</loc>
-    <lastmod>2018-11-26T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.es/tag/delivery.html</loc>
     <lastmod>2018-11-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -2594,12 +2606,6 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.es/tag/libanes.html</loc>
-    <lastmod>2018-11-26T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.es/tag/vegano.html</loc>
     <lastmod>2018-11-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -5569,12 +5575,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.es/tag/black-friday.html</loc>
-    <lastmod>2018-11-26T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://foodscene.deliveroo.es/tag/comida-asiatica.html</loc>
     <lastmod>2018-11-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -6775,13 +6775,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.es/restaurantes.html</loc>
+    <loc>https://foodscene.deliveroo.es/promociones.html</loc>
     <lastmod>2018-11-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.es/promociones.html</loc>
+    <loc>https://foodscene.deliveroo.es/restaurantes.html</loc>
     <lastmod>2018-11-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -6925,6 +6925,24 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.es/tag/take-away/page/2.html</loc>
+    <lastmod>2018-11-26T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.es/tag/delivery/page/2.html</loc>
+    <lastmod>2018-11-26T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.es/tag/vegano/page/2.html</loc>
+    <lastmod>2018-11-26T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.es/tag/hamburguesas/page/2.html</loc>
     <lastmod>2018-11-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -6950,18 +6968,6 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.es/tag/pasta/page/2.html</loc>
-    <lastmod>2018-11-26T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.es/tag/take-away/page/2.html</loc>
-    <lastmod>2018-11-26T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.es/tag/delivery/page/2.html</loc>
     <lastmod>2018-11-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -7076,12 +7082,6 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.es/tag/hamburguesa/page/2.html</loc>
-    <lastmod>2018-11-26T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.es/tag/vegano/page/2.html</loc>
     <lastmod>2018-11-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -7315,18 +7315,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.es/restaurantes/page/2.html</loc>
-    <lastmod>2018-11-26T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.es/restaurantes/page/3.html</loc>
-    <lastmod>2018-11-26T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://foodscene.deliveroo.es/promociones/page/2.html</loc>
     <lastmod>2018-11-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -7334,6 +7322,18 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.es/promociones/page/3.html</loc>
+    <lastmod>2018-11-26T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.es/restaurantes/page/2.html</loc>
+    <lastmod>2018-11-26T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.es/restaurantes/page/3.html</loc>
     <lastmod>2018-11-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
