@@ -469,6 +469,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.es/restaurantes/deliveroo-fiveguys-barcelona-valencia.html</loc>
+    <lastmod>2019-01-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.es/restaurantes/comer-bien-con-deliveroo-costillas.html</loc>
     <lastmod>2019-01-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -2323,18 +2329,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.es/tag/marketing.html</loc>
-    <lastmod>2019-01-15T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.es/tag/deliveroo.html</loc>
-    <lastmod>2019-01-15T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://foodscene.deliveroo.es/tag/hamburguesas.html</loc>
     <lastmod>2019-01-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -2354,6 +2348,18 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.es/tag/recomendacion.html</loc>
+    <lastmod>2019-01-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.es/tag/marketing.html</loc>
+    <lastmod>2019-01-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.es/tag/deliveroo.html</loc>
     <lastmod>2019-01-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -6847,13 +6853,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.es/tendencias.html</loc>
+    <loc>https://foodscene.deliveroo.es/restaurantes.html</loc>
     <lastmod>2019-01-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.es/restaurantes.html</loc>
+    <loc>https://foodscene.deliveroo.es/tendencias.html</loc>
     <lastmod>2019-01-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -6967,24 +6973,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.es/tag/deliveroo/page/2.html</loc>
-    <lastmod>2019-01-15T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.es/tag/deliveroo/page/3.html</loc>
-    <lastmod>2019-01-15T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.es/tag/deliveroo/page/4.html</loc>
-    <lastmod>2019-01-15T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://foodscene.deliveroo.es/tag/hamburguesas/page/2.html</loc>
     <lastmod>2019-01-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -7016,6 +7004,24 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.es/tag/comida-a-domicilio/page/5.html</loc>
+    <lastmod>2019-01-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.es/tag/deliveroo/page/2.html</loc>
+    <lastmod>2019-01-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.es/tag/deliveroo/page/3.html</loc>
+    <lastmod>2019-01-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.es/tag/deliveroo/page/4.html</loc>
     <lastmod>2019-01-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -7411,18 +7417,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.es/tendencias/page/2.html</loc>
-    <lastmod>2019-01-15T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.es/tendencias/page/3.html</loc>
-    <lastmod>2019-01-15T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://foodscene.deliveroo.es/restaurantes/page/2.html</loc>
     <lastmod>2019-01-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -7430,6 +7424,18 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.es/restaurantes/page/3.html</loc>
+    <lastmod>2019-01-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.es/tendencias/page/2.html</loc>
+    <lastmod>2019-01-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.es/tendencias/page/3.html</loc>
     <lastmod>2019-01-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
