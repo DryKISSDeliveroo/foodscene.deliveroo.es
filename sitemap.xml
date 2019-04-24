@@ -589,6 +589,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.es/restaurantes/tucuentadeliveroo.html</loc>
+    <lastmod>2019-04-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.es/restaurantes/murcia-deliveroo-comida-a-domicilio.html</loc>
     <lastmod>2019-04-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -668,6 +674,12 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.es/restaurantes/granada-deliveroo-comida-a-domicilio.html</loc>
+    <lastmod>2019-04-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.es/restaurantes/elmenuperfecto-deliveroo.html</loc>
     <lastmod>2019-04-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -2191,6 +2203,18 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.es/tag/deliveroo.html</loc>
+    <lastmod>2019-04-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.es/tag/restaurantes.html</loc>
+    <lastmod>2019-04-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.es/tag/descuento.html</loc>
     <lastmod>2019-04-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -2209,19 +2233,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.es/tag/deliveroo.html</loc>
-    <lastmod>2019-04-24T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://foodscene.deliveroo.es/tag/almeria.html</loc>
-    <lastmod>2019-04-24T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.es/tag/restaurantes.html</loc>
     <lastmod>2019-04-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -6769,13 +6781,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.es/terms.html</loc>
+    <loc>https://foodscene.deliveroo.es/restaurantes.html</loc>
     <lastmod>2019-04-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.es/restaurantes.html</loc>
+    <loc>https://foodscene.deliveroo.es/terms.html</loc>
     <lastmod>2019-04-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -6805,6 +6817,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.es/marta-sanchez.html</loc>
+    <lastmod>2019-04-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.es/deliveroo.html</loc>
     <lastmod>2019-04-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -6812,12 +6830,6 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.es/deliveroo-for-business.html</loc>
-    <lastmod>2019-04-24T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.es/marta-sanchez.html</loc>
     <lastmod>2019-04-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -7195,6 +7207,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.es/archive/2019/page/3.html</loc>
+    <lastmod>2019-04-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.es/archive/2018/page/2.html</loc>
     <lastmod>2019-04-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -7393,12 +7411,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.es/terms/page/2.html</loc>
-    <lastmod>2019-04-24T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://foodscene.deliveroo.es/restaurantes/page/2.html</loc>
     <lastmod>2019-04-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -7412,6 +7424,12 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.es/restaurantes/page/4.html</loc>
+    <lastmod>2019-04-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.es/terms/page/2.html</loc>
     <lastmod>2019-04-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -7585,12 +7603,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.es/deliveroo/page/2.html</loc>
-    <lastmod>2019-04-24T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://foodscene.deliveroo.es/marta-sanchez/page/2.html</loc>
     <lastmod>2019-04-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -7598,6 +7610,12 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.es/marta-sanchez/page/3.html</loc>
+    <lastmod>2019-04-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.es/deliveroo/page/2.html</loc>
     <lastmod>2019-04-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
