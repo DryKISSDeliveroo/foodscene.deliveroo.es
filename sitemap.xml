@@ -67,6 +67,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.es/terms/concurso-goiko-grill-entradas-deliveroo.html</loc>
+    <lastmod>2019-09-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.es/terms/deliveroo-dia-de-la-madre.html</loc>
     <lastmod>2019-09-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -7034,6 +7040,12 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.es/tag/terms/page/2.html</loc>
+    <lastmod>2019-09-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.es/tag/terms/page/3.html</loc>
     <lastmod>2019-09-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
