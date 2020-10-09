@@ -259,6 +259,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.es/terms/goiko-free-delivery-octubre.html</loc>
+    <lastmod>2020-10-09T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.es/terms/concurso-goiko-grill-deliveroo.html</loc>
     <lastmod>2020-10-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -7315,6 +7321,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.es/tag/terms/page/6.html</loc>
+    <lastmod>2020-10-09T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.es/tag/deliveroo/page/2.html</loc>
     <lastmod>2020-10-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -7616,6 +7628,12 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.es/archive/2020/page/3.html</loc>
+    <lastmod>2020-10-09T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.es/archive/2020/page/4.html</loc>
     <lastmod>2020-10-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
